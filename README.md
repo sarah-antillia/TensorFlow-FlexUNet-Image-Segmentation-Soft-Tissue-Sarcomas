@@ -7,7 +7,7 @@ based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> (Tenso
 and a 512x512 pixels Upscaled<a href="https://drive.google.com/file/d/1naVbtgWJExGRz3eaSUPztCePQ-6Z8lSH/view?usp=sharing">
 <b>Augmented-Soft-Tissue-Sarcomas-CTPET-ImageMask-Dataset.zip</b></a>, which was derived by us from
 <a href="https://www.kaggle.com/datasets/4quant/soft-tissue-sarcoma/data">
-<b>Segmenting Soft Tissue Sarcomas</b></a> on th kaggle web site.
+<b>Segmenting Soft Tissue Sarcomas</b></a> on the kaggle web site.
 <br><br>
 <b>Data Augmentation Strategy</b><br>
 To address the limited size of images and masks of the original 

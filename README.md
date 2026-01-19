@@ -18,7 +18,7 @@ we used our offline augmentation tool
 <a href="./generator/ImageMaskDatasetGenerator.py"> 
 ImageMaskDatasetGenerator.py</a> (see also <a href="https://github.com/sarah-antillia/Image-Distortion-Tool">Image-Distortion-Tool</a>)
 
-to generate the Augmented CTPET image and mask dataset from <b>lab_petct_vox_5.00mm.h5</b> file in the original dataset.
+to generate the Augmented dataset from <b>lab_petct_vox_5.00mm.h5</b> file in the original dataset.
 <br><br> 
 <hr>
 <b>Actual Image Segmentation for Soft-Tissue-Sarcomas Images of 512x512 pixels</b><br>

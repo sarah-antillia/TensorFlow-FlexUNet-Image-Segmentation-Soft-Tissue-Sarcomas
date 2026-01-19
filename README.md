@@ -153,7 +153,7 @@ Please move to ./projects/TensorFlowFlexUNet/Soft-Tissue-Sarcomas and run the fo
 
 <b>Model parameters</b><br>
 Defined a small <b>base_filters=16</b> and a large <b>base_kernels=(11,11)</b> for the first Conv Layer of Encoder Block of 
-<a href="./src/TensorflowUNet.py">TensorflowUNet.py</a> 
+<a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet.py</a> 
 and a large num_layers (including a bridge between Encoder and Decoder Blocks).
 <pre>
 [model]

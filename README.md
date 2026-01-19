@@ -1,6 +1,6 @@
 <h2>TensorFlow-FlexUNet-Image-Segmentation-Soft-Tissue-Sarcomas (2026/01/19)</h2>
 <h3>Revisiting Aerial Semantic Segmentation (Soft-Tissue-Sarcomas)</h3>
-Toshiyuki Arai<br>
+Sarah T. Arai<br>
 Software Laboratory antillia.com<br><br>
 This is the first experiment of Image Segmentation for Soft-Tissue-Sarcomas 
 based on our <a href="./src/TensorFlowFlexUNet.py">TensorFlowFlexUNet</a> (TensorFlow Flexible UNet Image Segmentation Model for Multiclass) , 
